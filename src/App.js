@@ -53,7 +53,7 @@ function App() {
 
   return (
     <div style={{ textAlign: "center", padding: "20px", maxWidth: "500px", margin: "auto" }}>
-      <h2>Bhaskar's Chat App</h2>
+      <h2> Chat App</h2>
 
       <input
         type="text"
